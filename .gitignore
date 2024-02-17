@@ -1,0 +1,5 @@
+# Gaze estimation出力ファイル
+output.mp4
+
+# onnxファイル
+*.onnx
