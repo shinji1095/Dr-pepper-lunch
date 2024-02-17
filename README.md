@@ -10,3 +10,7 @@ DMPハッカソン2024春に参加するDr.pepper lunchのリポジトリ
 - onnxruntime==1.17.0
 - opencv-python==4.9.0.80
 - scikit-image==0.21.0
+
+# Assets
+1. onnxファイルは重いのでドライブからインストール
+2. assetsに展開
