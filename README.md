@@ -1,5 +1,5 @@
 # Dr. pepper lunch
-DMPハッカソン2024春に参加するDr.pepper lunchのリポジトリ
+DMPハッカソン2024春で優勝するDr.pepper lunchのリポジトリ
 
 
 
