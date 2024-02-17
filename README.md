@@ -12,5 +12,5 @@ DMPハッカソン2024春に参加するDr.pepper lunchのリポジトリ
 - scikit-image==0.21.0
 
 # Assets
-1. onnxファイルは重いのでドライブからインストール
+1. onnxファイルは重いので[ドライブ](https://drive.google.com/drive/folders/1c82yYLxOCuZXW3uOTQI-L1uyshRXOxSS?usp=sharing)からインストール
 2. assetsに展開
